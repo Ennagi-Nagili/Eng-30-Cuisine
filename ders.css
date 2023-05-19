@@ -1,0 +1,136 @@
+body {
+    margin: 0;
+    background-color: #323232;
+}
+
+nav{
+	background-color: #ad9964;
+    display: flex;
+    width: 100%;
+	position: fixed;
+	top: 0;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    z-index: 1;
+}
+
+ul {
+	width: 100%;
+    list-style-type: none;
+    display: flex;
+	padding: 0;
+	justify-content: center;
+	margin-right: 6%;
+	font-size: 18px;
+    font-family: "Tilt Warp";
+    text-transform: uppercase;
+}
+
+.li {
+    margin-top: 10px;
+}
+
+#logo {
+    text-decoration: none;
+    color: rgb(73, 4, 4);
+    margin-left: 50px;
+    font-size: 28px;
+}
+
+#logoLi {
+    margin-top: 2px;
+}
+
+.links {
+    text-decoration: none;
+    color: black;
+    margin-left: 50px;
+}
+
+.links:hover {
+    color: white;
+}
+
+#order {
+    width: 170px;
+    height: 40px;
+    background-color: #323232;
+    color: white;
+    font-size: 16px;
+    border: 0;
+    margin-left: 50px;
+    font-family: "Tilt Warp";
+    cursor: pointer;
+}
+
+#order:hover {
+    color: #ad9964;
+}
+
+.fa-solid {
+    font-size: 24px;
+    margin-left: 15px;
+}
+
+#login {
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+}
+
+hr {
+    margin-right: 300px;
+}
+
+h4 {
+    margin-top: 80px;
+}
+
+.div1 {
+    width: 100% ;
+    height: 50px;
+    color: white;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 10px;
+    font-size: larger;
+    background-color : #ad9964;
+}
+
+#dinner {
+    font-size: 48px;
+    margin-top: 50px;
+}
+
+#menu {
+    margin-top: 0;
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 75px;
+}
+
+.div2 {
+    width: 100%;
+    height:100px;
+    color: #ad9964 ;
+    letter-spacing: 10px;
+    background-color : #323232;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+     }
+
+.div3{
+    letter-spacing: 10px;
+    color: #ad9964 ;
+    background-color : #323232;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    letter-spacing: normal;
+    margin-left: 350px;
+    margin-bottom: 200px;
+ }
+
+#hr1 {
+    margin-top: 100px;
+}
